@@ -26,7 +26,7 @@ export const profile = {
   visa: "Transferable Iqama",
   /** Put your photo at /public/profile.jpg — initials are shown until it exists. */
   photo: "/profile.jpg",
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://arafath.dev",
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://profile-ten-dun.vercel.app",
 
   heroHeadline: ["Connecting Technology.", "Intelligently."],
   heroSub: "Building Automation | IoT & Firmware | Smart Systems | IT Infrastructure",
